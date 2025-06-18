@@ -39,4 +39,4 @@ A full-stack Task Management System built with the **MERN stack** (MongoDB, Expr
 | Frontend   | React + Tailwind + Vite |
 | Backend    | Node.js + Express |
 | Database   | MongoDB + Mongoose |
-| Deployment | Netlify |
+| Deployment | Netlify + Render |
